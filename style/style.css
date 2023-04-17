@@ -78,7 +78,7 @@ body{
    grid-template-columns: 100px 100px 100px;
    background-color: #B26EDFFF;
    justify-content: center;
-   grid-column-gap: 128px;
+   grid-column-gap: 100px;
 }
 
 .container .section-long .item {
